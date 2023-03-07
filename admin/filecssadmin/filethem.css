@@ -1,0 +1,65 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+form {
+    width: 500px;
+}
+
+form input {
+    width: 70%;
+    height: 30px;
+}
+
+form div {
+    margin: 20px 20px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.images {
+    width: 70%;
+    border: 2px solid black;
+}
+
+#image {
+    width: 80%;
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+}
+
+.btn button {
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.btn button:hover {
+    opacity: 0.5;
+}
+.khung{
+    background-color:rgb(147, 195, 206);
+    width: 1500px;
+    height: 1000px;
+    margin-left: 100px;
+}
+.tieude{ 
+    font-size: 40px;
+    color: red;
+    margin-left: 500px;
+
+}
